@@ -6,7 +6,7 @@ In a country where over **90% of 5 million microbusinesses are informal** and on
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Five-Step Path to Formalization:**
   1. Business ideation using geolocation and heatmaps.
@@ -33,33 +33,26 @@ In a country where over **90% of 5 million microbusinesses are informal** and on
 
 ---
 
-## 🎯 Impact
+##  Impact
 
-### 📌 For Entrepreneurs:
+###  For Entrepreneurs:
 - Fast, secure business formalization.
 - Access to financial tools and markets.
 - Increased income, visibility, and stability.
 
-### 💼 For BBVA:
+###  For BBVA:
 - +500,000 new SME clients.
 - +MXN $1,000,000,000 in credit placement.
 - Positioning as the leader in financial inclusion.
 
-### 👨‍💻 For Developers:
+### For Developers:
 - Scalable cloud architecture.
 - Secure integration with BBVA APIs.
 - Biometric and video-based digital onboarding.
 
 ---
 
-## 💡 Success Stories
-
-- **Juan**, a shopkeeper from Ecatepec, formalized his store, opened a PyME account, and now supplies supermarkets.
-- **María**, a taco stand owner, tripled her sales by accepting digital payments through Tap to Pay and using AI tools to manage her inventory.
-
----
-
-## 🧠 The Problem
+## The Problem
 
 Millions of Mexican entrepreneurs fear the SAT and mistrust banks, leading to:
 - Informality
@@ -68,7 +61,7 @@ Millions of Mexican entrepreneurs fear the SAT and mistrust banks, leading to:
 
 ---
 
-## ✅ The Solution
+##  The Solution
 
 **BankPath converts fear into opportunity** with:
 - A clear 5-step virtual process
